@@ -1,9 +1,0 @@
-C:\Documents and Settings\homa\Desktop\MEC\MEC\MEC\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\homa\Desktop\MEC\MEC\MEC\obj\Debug\MEC.Properties.Resources.resources
-C:\Documents and Settings\homa\Desktop\MEC\MEC\MEC\obj\Debug\MEC.csproj.GenerateResource.Cache
-C:\Documents and Settings\homa\Desktop\MEC\MEC\MEC\bin\Debug\MEC.exe
-C:\Documents and Settings\homa\Desktop\MEC\MEC\MEC\bin\Debug\MEC.pdb
-C:\Documents and Settings\homa\Desktop\MEC\MEC\MEC\obj\Debug\MEC.exe
-C:\Documents and Settings\homa\Desktop\MEC\MEC\MEC\obj\Debug\MEC.pdb
-C:\Documents and Settings\homa\Desktop\MEC\MEC\MEC\obj\Debug\MEC.Form1.resources
-C:\Documents and Settings\homa\Desktop\MEC\MEC\MEC\obj\Debug\MEC.Result.resources
